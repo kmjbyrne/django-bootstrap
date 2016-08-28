@@ -1,4 +1,4 @@
-# flask-fundamentum
+# django-fundamentum
 
 [Publication Revision 1]
 
