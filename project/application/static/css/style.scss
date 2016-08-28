@@ -6,12 +6,23 @@ Simple introduction to Sass stylesheets
 */
 
 
-$css-color-variable: #EFEFEF;
+$css-color-variable: #000;
 
 /* For all specified DOM elements beneath div main */
 
 .main{
 	h1{
 		color: $css-color-variable;
+	}
+}
+
+nav{
+	a{
+		color:orange !important;
+	}
+
+	.navbar{
+		border-radius: 0px;
+		border: 0px solid transparent;
 	}
 }
