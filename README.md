@@ -1,4 +1,4 @@
-# django-fundamentum
+# django-bootstrap
 
 [Publication Revision 1]
 
